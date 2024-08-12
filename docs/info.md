@@ -9,7 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Control uio for the operation to be performed:
+
+0 = addition
+1 = subtraction
+2 = division
+3 = multiplication
+4 = bitwise AND
+5 = bitwise OR
 
 ## How to test
 
