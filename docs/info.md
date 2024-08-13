@@ -20,7 +20,7 @@ Control uio for the operation to be performed:
 
 ## How to test
 
-Explain how to use your project
+Insert C value and A/B Values in order to perform math based on C input
 
 ## External hardware
 
